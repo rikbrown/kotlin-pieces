@@ -1,4 +1,4 @@
-package codes.rik.kotlinbits.io
+package codes.rik.kotlinpieces.io
 
 import java.io.Closeable
 import java.nio.file.Files

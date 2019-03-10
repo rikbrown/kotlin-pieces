@@ -1,4 +1,4 @@
-package codes.rik.kotlinbits.extensions
+package codes.rik.kotlinpieces.collections
 
 /**
  * Support nested map lookup using bracket syntax, for example:

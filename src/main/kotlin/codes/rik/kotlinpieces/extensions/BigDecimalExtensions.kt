@@ -1,4 +1,4 @@
-package codes.rik.kotlinbits.extensions
+package codes.rik.kotlinpieces.extensions
 
 import java.math.BigDecimal
 

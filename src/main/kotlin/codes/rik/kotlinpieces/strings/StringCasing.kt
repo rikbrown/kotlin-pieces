@@ -1,4 +1,4 @@
-package codes.rik.kotlinbits.strings
+package codes.rik.kotlinpieces.strings
 
 import com.google.common.base.CaseFormat
 import org.atteo.evo.inflector.English

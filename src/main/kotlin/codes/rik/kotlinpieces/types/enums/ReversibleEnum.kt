@@ -1,4 +1,4 @@
-package codes.rik.kotlinbits.types.enums
+package codes.rik.kotlinpieces.types.enums
 
 /**
  * An enum which can be reversed (i.e. an item can be retrieved by its value via [ofValue] (or the nullable [ofValueOrNull])

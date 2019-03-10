@@ -1,4 +1,4 @@
-package codes.rik.kotlinbits.types
+package codes.rik.kotlinpieces.types
 
 /**
  * A [ByteArray] which implements [Object.equals] and [Object.hashCode]

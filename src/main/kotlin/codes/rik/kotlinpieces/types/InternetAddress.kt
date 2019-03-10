@@ -1,4 +1,4 @@
-package codes.rik.kotlinbits.types
+package codes.rik.kotlinpieces.types
 
 import java.nio.charset.Charset
 

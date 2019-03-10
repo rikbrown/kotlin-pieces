@@ -1,4 +1,4 @@
-package codes.rik.kotlinbits.collections
+package codes.rik.kotlinpieces.collections
 
 import com.google.common.collect.Multimap
 import com.google.common.collect.MultimapBuilder
@@ -11,4 +11,4 @@ fun <K, V> Collection<Pair<K, V>>.toMultimap(): Multimap<K, V> {
             .build<K, V>()) { acc, (k, v) -> acc.apply { put(k, v) } }
 }
 
-fun <K, V, V2> Collection<Pair<K, V>>.mapValues(mapper: (V) -> V2) = map { it.first to mapper(it.second) }
+
